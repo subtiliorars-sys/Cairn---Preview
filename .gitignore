@@ -1,0 +1,23 @@
+# This is a public preview repo — keep it clean and never commit anything sensitive.
+
+# Secrets (must never appear here)
+.env
+.env.*
+*.key
+*.pem
+secrets.json
+credentials*.json
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
+
+# Local agent tooling injected per-host
+.cursor/
+
+# Office lock/temp files
+~$*
