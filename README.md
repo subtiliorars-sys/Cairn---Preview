@@ -20,4 +20,9 @@ More soon.
 
 🚧 Building. Follow along at **[trycairn.org](https://trycairn.org)**.
 
+## Fleet
+
+- **HQ:** [subtiliorars-sys/Cairn](https://github.com/subtiliorars-sys/Cairn) *(private — org members only)*
+- **Connectome:** [subtiliorars-sys/neural-network — `connectome/`](https://github.com/subtiliorars-sys/neural-network/tree/main/connectome) (`repos.yaml`, `fleet-kanban.yaml`)
+
 Just say hello — **hello@trycairn.org**
